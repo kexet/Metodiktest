@@ -1,7 +1,7 @@
-#Hej#
+#Hej
 ---
-Erik visar hur det går till
+*Erik visar hur det gÃ¥r till
 
-##Rubrik##
+##Rubrik
 
 NY RAD
