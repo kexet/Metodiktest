@@ -1,8 +1,6 @@
-Hej
----
-*Erik visar hur det går till
+Hej===
+rubyErik visar hur det går till
 
-Rubrik
----
+Rubrik---
 
 NY RAD
