@@ -8,7 +8,8 @@ Yadad yaday ydyayd
 
 Please note that **only the first step** is covered by this gem — the rest happens on GitHub.com.  In particular, `markup` itself does no sanitization of the resulting HTML, as it expects that to be covered by whatever pipeline is consuming the HTML.
 
-#asdasd
+##asdasd##
+dfgdfg
 
 ##sadfsdfs
 
@@ -16,9 +17,8 @@ Please note that **only the first step** is covered by this gem — the rest hap
 
 ####sdfsdfsdf
 
-
-
 Please see our [contributing guidelines](CONTRIBUTING.md) before reporting an issue.
+
 Rubrik 2
 --------
 
