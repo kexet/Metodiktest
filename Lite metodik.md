@@ -21,7 +21,7 @@ Text
 
 ###### Rubrik 6
 
-Text
+Text. **Bold Text** lite annat som är ~~Strike through text~~ och lite som är --System?-- text.
 
 
 # Word to Markdown converter
