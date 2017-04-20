@@ -1,3 +1,29 @@
+
+# Rubrik 1
+
+Text
+
+## Rubrik 2
+
+Text
+
+### Rubrik 3
+
+Text
+
+#### Rubrik 4
+
+Text
+
+##### Rubrik 5
+
+Text
+
+###### Rubrik 6
+
+Text
+
+
 # Word to Markdown converter
 
 A Ruby gem to liberate content from [the jail that is Word documents](http://ben.balter.com/2012/10/19/we-ve-been-trained-to-make-paper/#jailbreaking-content)
